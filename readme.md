@@ -111,6 +111,24 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 ---
 
+## 🥊🥋 Indicar treino de arte marcial
+
+A escolha da melhor para você depende de vários fatores, como os seus interesses e objetivos:
+
+1. **Jiu Jitsu** Uma arte marcial japonesa que desenvolve habilidades técnicas e de adaptação do atleta aos desafios. É considerada uma das artes marciais mais completas.
+2. **Judô** Uma arte marcial derivada do estilo Ju-jutsu.
+3. **Capoeira** Uma arte marcial que acontece como uma dança e gingados
+4. **Muay Thai**  Uma técnica tailandesa que usa golpes de chutes, socos, joelhadas e cotoveladas. 
+5. **Kickboxing** uma arte macial em que os lutadores fazem sparring e praticam chutes, socos, bloqueios e técnicas de sombra para se preparar antes das competições. 
+6. **Caratê** Uma arte marcial japonesa que visa a proteção pessoal, tanto de ataque como de defesa, sem o uso de acessórios.
+7. **Kung-fu**  Uma arte marcial cujo nome é uma interpretação da expressão em cantonês “gong fu”, que significa trabalho árduo que leva à perfeição. 
+8. **Taekwondo** Taekwondo é a arte marcial mais popular do mundo, muitos o consideram como expressão artística, por isso o autocontrole é fundamental.
+9. **Boxe**  Uma arte marcial polêmica, pois ainda não há consenso sobre se deve ou não ser considerada uma arte marcial.
+ 
+10.**MMA** Praticar MMA também desenvolve a coordenação motora e libera o estresse, além de ajudar a modelar o corpo e a perder peso.
+   
+---
+
 ## 📖 Material de Apoio
 
 Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor o projeto e as práticas de prompt engineering:
